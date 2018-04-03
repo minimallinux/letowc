@@ -1,33 +1,14 @@
-=== Leto ===
+=== LetoWC ===
 
-Leto WordPress Theme, Copyright 2017 athemes
-Leto is distributed under the terms of the GNU GPL v3
+Modfied from original Leto Parent theme by aThemes.
 
-Contributors: athemes
-Tags: e-commerce, two-columns, right-sidebar, custom-colors, custom-background, custom-header, custom-menu, featured-images, sticky-post, theme-options, threaded-comments, translation-ready
+Extra top-bar in header and search bar etc.
 
-Requires at least: 4.0
-Tested up to: 4.9
-Stable tag: 1.0.0
-License: GNU General Public License v3
-License URI: http://www.gnu.org/licenses/gpl-3.0.html
+To be used with LetoWC Child theme at https://github.com/minimallinux/letowc-child.git
 
-== Description ==
+Or make and nmofify own.
 
-Leto is a WooCommerce compatible theme that works great for any kind of shop. Leto features color and font options, blog options, integration with the Page Builder plugin so you can easily build your homepage or other pages and many more other useful features.
 
-== Installation ==
-
-1. In your admin panel, go to Appearance > Themes and click the Add New button.
-2. Click Upload and Choose File, then select the theme's .zip file. Click Install Now.
-3. Click Activate to use your new theme right away.
-
-== Frequently Asked Questions ==
-
-== Changelog ==
-
-= 1.0.0 - Nov 11 2017 =
-* Initial release
 
 == Credits ==
 
